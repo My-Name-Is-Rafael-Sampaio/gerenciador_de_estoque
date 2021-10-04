@@ -1,0 +1,41 @@
+.top-editUser {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-editUser {
+    text-align: center;
+    color: #000;
+}
+
+.button-backUser {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.status-msg-editUser {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 1.5rem;
+}
+
+.msg-error-editUser {
+    background-color: red;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.msg-success-editUser {
+    background-color: green;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.container hr {
+    color: #fff;
+    height: 2px;
+}

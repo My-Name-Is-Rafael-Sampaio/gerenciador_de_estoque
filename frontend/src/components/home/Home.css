@@ -1,0 +1,15 @@
+.top-home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-home {
+    text-align: center;
+    color: #000;
+}
+
+.carousel-inner > .carousel-item > img {
+    width: 500px;
+    height: 500px; 
+}

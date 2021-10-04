@@ -1,0 +1,41 @@
+.top-listProducts {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-listProducts {
+    text-align: center;
+    color: #000;
+}
+
+.button-registerProducts {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.status-msg-listProducts {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 1.5rem;
+}
+
+.msg-error-listProducts {
+    background-color: red;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.msg-success-listProducts {
+    background-color: green;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.container hr {
+    color: #fff;
+    height: 2px;
+}
